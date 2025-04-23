@@ -1,0 +1,21 @@
+# ============================ Env (e.g.)
+# (Run the "Safe Environment/.bat")
+ObvRemaster_env/
+
+# Copy of esm/esp 
+ObvRemaster_env/Data/
+
+# Dummy exe 
+ObvRemaster_env/Oblivion.exe
+
+# TES4Edit files (e.g.)
+ObvRemaster_env/Edit Scripts/
+ObvRemaster_env/Optional/
+ObvRemaster_env/Themes/
+ObvRemaster_env/TES4Edit_log.txt
+ObvRemaster_env/TES4Edit.exe
+ObvRemaster_env/TES4EditQuickAutoClean.exe
+# ========================================
+
+# Original TES4CS/TES4Edit, HxD, etc...
+Tools/
