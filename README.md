@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="Assets/Img/Oblivion_Remastered_Logo.png" alt="tes4r .png" />
+  <img src="Resources/Img/Oblivion_Remastered_Logo.png" alt="tes4r .png" />
 </p>
 <br>
 
